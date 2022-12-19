@@ -1,4 +1,4 @@
-# Lexical-Analyzer
+# Lexical Analyzer
 Built a Lexer in C!
 
 # How to run:
