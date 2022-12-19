@@ -1,7 +1,7 @@
 # Lexical Analyzer
 Built a Lexer in C!
 
-# How to run:
+# How to run
 Note: Make sure you have Flex installed on your system!
 
 1. Open `Command Prompt`.
